@@ -1,5 +1,5 @@
 # sllist
-Programmers library for manupulate Single Linked List
+Programmer's library for manupulate Single Linked List
 
 <h1>Features</h1>
 
