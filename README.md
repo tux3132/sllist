@@ -9,8 +9,8 @@ User functions in myFuncts.h (prototypes) and code in myFuncts.cpp (code)
 The make command produce test executable ./testSLL
 
 <h1>Functions</h1>
-  <h2>Create a new list<h2>
-  Returns a pointer to a new, empty list. If allocation fails, returns nullptr.
+  <h2>Create a new list</h2>
+  Returns a pointer to a new, empty list. If allocation fails, returns nullptr.<br>
   sllist* sllist_create(void)
   
   <h2>Destroy a list</h2>
