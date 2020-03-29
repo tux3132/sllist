@@ -1,7 +1,11 @@
 # sllist
 Programmer's library for manupulate Single Linked List<br>
-Prototypes of functions in <pre>sllist.h</pre><br>
-Code of functions in <pre>sllist.cpp</pre>
+Prototypes of functions in
+<pre>sllist.h</pre>
+Code of functions in
+<pre>sllist.cpp</pre>
+Example without the library
+<pre>withoutSLL.cpp</pre>
 
 <h1>Features</h1>
 Examples of uses in
