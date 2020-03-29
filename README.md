@@ -1,11 +1,12 @@
 # sllist
-Programmer's library for manupulate Single Linked List
-Prototypes of functions in sllist.h
+Programmer's library for manupulate Single Linked List<br>
+Prototypes of functions in sllist.h<br>
 Code of functions in sllist.cpp
 
 <h1>Features</h1>
-Examples of uses in main.cpp
-User functions in myFuncts.h (prototypes) and code in myFuncts.cpp (code)
+Examples of uses in main.cpp<br>
+User functions in myFuncts.h (prototypes) and code in myFuncts.cpp<br>
+Conform to g++<br>
 The make command produce test executable ./testSLL
 
 <h1>Functions</h1>
