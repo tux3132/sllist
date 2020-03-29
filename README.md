@@ -13,7 +13,7 @@ Code in
 Conform to g++<br>
 Building
 <pre>make</pre>
-command produce test executable
+This command produce test executable
 <pre>./testSLL</pre>
 Cleaning
 <pre>make mrproper</pre>
