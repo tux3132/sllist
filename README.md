@@ -4,12 +4,17 @@ Prototypes of functions in <pre>sllist.h</pre><br>
 Code of functions in <pre>sllist.cpp</pre>
 
 <h1>Features</h1>
-Examples of uses in <pre>main.cpp</pre><br>
-User functions in <pre>myFuncts.h</pre> (prototypes) and code in <pre>myFuncts.cpp</pre><br>
+Examples of uses in
+<pre>main.cpp</pre><br>
+User functions prototypes in
+<pre>myFuncts.h</pre>
+Code in
+<pre>myFuncts.cpp</pre><br>
 Conform to g++<br>
 Building
 <pre>make</pre>
-command produce test executable <pre>./testSLL</pre>
+command produce test executable
+<pre>./testSLL</pre>
 Cleaning
 <pre>make mrproper</pre>
 
